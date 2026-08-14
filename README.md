@@ -1,8 +1,10 @@
 <div align="center">
-# Hello Everyone! I'm Vedaansh Vishwakarma👋🏼
+
+  # Hello Everyone! I'm Vedaansh Vishwakarma👋🏼
+  ## 🧠 AI/ML Engineer | 📊 Data Science Enthusiast | 💻 Full-Stack Developer
 </div>
 
-### 🧠 AI/ML Engineer | 📊 Data Science Enthusiast | 💻 Full-Stack Developer
+---
 
 I'm a passionate **Software Engineer** with a strong focus on **Artificial Intelligence, Machine Learning, and Data Science**, combined with hands-on experience in **MERN stack development**. I love building intelligent, scalable applications and turning data into actionable insights.
 
