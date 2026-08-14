@@ -1,4 +1,6 @@
-# Hello World! I'm Vedaansh 👋🏼
+<div align="center">
+# Hello Everyone! I'm Vedaansh Vishwakarma👋🏼
+</div>
 
 ### 🧠 AI/ML Engineer | 📊 Data Science Enthusiast | 💻 Full-Stack Developer
 
@@ -69,38 +71,7 @@ I'm a passionate **Software Engineer** with a strong focus on **Artificial Intel
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. **E-Commerce Platform (MERN Stack)**
-- Built a full‑stack e‑commerce application with user authentication, product catalog, cart, and payment gateway integration.
-- **Tech:** React, Node.js, Express, MongoDB, Redux, JWT
-
-### 2. **Image Classification using Convolutional Neural Networks**
-- Developed a deep learning model to classify images into multiple categories with 90%+ accuracy.
-- **Tech:** Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib
-
-### 3. **Sentiment Analysis on Social Media Data**
-- Performed text preprocessing, feature extraction, and built a sentiment classifier using NLP techniques.
-- **Tech:** Python, NLTK, scikit-learn, Pandas, Flask (for API)
-
-### 4. **Data Analysis Dashboard**
-- Created an interactive dashboard to visualize key metrics and trends from large datasets.
-- **Tech:** React, Chart.js, Python (Flask), Pandas, SQL
-
-> 💡 *More projects available on my [GitHub repositories](https://github.com/vedaansh12?tab=repositories).*
-
----
-
 ## 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=vedaansh12&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">
