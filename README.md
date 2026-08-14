@@ -1,4 +1,4 @@
-# Hello World!, I'm Vedaansh, an aspiring Software engineer 👋🏼:
+# Hello Everyone!, I'm Vedaansh, an aspiring Software engineer 👋🏼:
 🛜MERN Stack developer, MongoDB, ExpressJS, ReactJS, NodeJS |<br>
 👨🏼‍🎓 Final year B. Tech (CSE) student at Graphic Era University.<br>
 🏋🏻 I am skillful in C, C++,Python, Java, Concepts of Machine Learning and Data Structures and Algorithms with hands on experience on web development tools.<br>
