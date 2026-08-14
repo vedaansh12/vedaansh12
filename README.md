@@ -92,17 +92,29 @@ I'm a passionate **Software Engineer** with a strong focus on **Artificial Intel
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=vedaansh12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vedaansh12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedaansh12&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedaansh12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedaansh12&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=vedaansh12&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedaansh12&theme=github-compact&hide_border=true&radius=12"/>
+
+</div>
 ---
 
 ## ✍️ Random Dev Quote
