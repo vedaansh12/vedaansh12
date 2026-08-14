@@ -92,13 +92,6 @@ I'm a passionate **Software Engineer** with a strong focus on **Artificial Intel
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vedaansh12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedaansh12&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 <br>
 
